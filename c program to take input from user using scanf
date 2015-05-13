@@ -10,7 +10,10 @@
           printf("Integer entered by you is %d\n", number);
  
           return 0;
+          
+          
        }
        
+       can you see this ?
        
        this is just a simple program 
